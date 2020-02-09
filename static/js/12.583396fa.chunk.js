@@ -1,0 +1,2 @@
+(this["webpackJsonpfalcon-react"]=this["webpackJsonpfalcon-react"]||[]).push([[12],{2158:function(e,t,a){"use strict";a.r(t);var c=a(0),n=a.n(c),r=a(104),o=a(479);t.default=Object(r.g)((function(e){var t=e.match.url;return n.a.createElement(r.d,null,n.a.createElement(r.b,{path:"".concat(t,"/wizard"),exact:!0,component:o.a}),n.a.createElement(r.a,{to:"/errors/404"}))}))}}]);
+//# sourceMappingURL=12.583396fa.chunk.js.map
