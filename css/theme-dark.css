@@ -15759,6 +15759,10 @@ label {
   padding-right: 1.25rem;
 }
 
+.react-select__menu .react-select__option:hover, .react-select__menu .react-select__option:focus {
+  background-color: #4d5969 !important;
+}
+
 .react-select__menu {
   background-color: #0e1c2f !important;
 }
